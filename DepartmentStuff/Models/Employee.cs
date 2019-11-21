@@ -22,9 +22,5 @@ namespace DepartmentStuff.Models
 
         public Department department { get; set; }
 
-        
-
-
-
     }
 }
